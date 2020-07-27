@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {%- include head.html -%}
+</head>
+
+<body>
+  <main class="container">
+    <section class="about">
+      <a href="/"><img src="/assets/portfolio.jpg" style="border-radius: 50%;"></a>
+      <h2 id="title">
+        <a href="/">Itchy Bum</a>
+      </h2>
+      <p class="tagline">Random Developers</p>
+      <ul class="social">
+        <a href="https://github.com/itchybumDev" target="_blank">
+          <li>
+            <i class="icon-github-circled"></i>
+          </li>
+        </a>
+        <a href="https://www.linkedin.com/in/nlchuongthien/" target="_blank">
+          <li>
+            <i class="icon-linkedin-squared"></i>
+          </li>
+        </a>
+        <a href="https://github.com/linturian" target="_blank">
+          <li>
+            <i class="icon-github-circled"></i>
+          </li>
+        </a>
+        <a href="https://www.linkedin.com/in/aturian/" target="_blank">
+          <li>
+            <i class="icon-linkedin-squared"></i>
+          </li>
+        </a>
+      </ul>
+      <div class="search-container">
+        <div class="search-section">
+          <i class="icon-search"></i>
+          <input type="text" name="search" id="searchbar" autocomplete="off" aria-label="search in posts">
+        </div>
+        <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
+      </div>
+      <ul class="post-categories">
+        {%- for category in site.categories-%}
+        <li>{{ category | first }}</li>
+        {%- endfor -%}
+      </ul>
+      {%- if site.plainwhite.navigation -%}
+      <nav class="navigation">
+        <ul>
+          {% for link in site.plainwhite.navigation %}
+          <li>
+            <a href="{{ link.url }}">{{ link.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+      {%- endif -%}
+    </section>
+    <section class="content">
+      {{ content }}
+    </section>
+  </main>
+  {%- if site.plainwhite.analytics_id -%}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', '{{ site.plainwhite.analytics_id }}');
+  </script>
+  {%- endif -%}
+
+  <script src="/assets/js/simple-jekyll-search.min.js"></script>
+  <script src="/assets/js/search.js"></script>
+
+</body>
+
+</html>

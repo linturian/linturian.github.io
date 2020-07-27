@@ -1,0 +1,13 @@
+title: Itchy Bum
+author: Itchy Bum
+excerpt_separator: <!--more-->
+
+sass:
+  sass_dir: _sass
+
+plainwhite:
+  date_format: "%b %-d, %Y"
+  sitemap: true
+
+plugins:
+  - jekyll-seo-tag
