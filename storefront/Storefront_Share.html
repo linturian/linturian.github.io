@@ -167,8 +167,7 @@
 	};
 	var params = (getParams(window.location.href));
 
-	
-	if (params['itemId'] == '') {
+	if (params['itemId'] == 'none') {
 		var urlRaw = "https://firestore.googleapis.com/v1beta1/projects/garagesale-82fb5/databases/(default)/documents/garage/garageId?key=AIzaSyBT4mf-gq-3OLCaitvlU9GshmkEPrEJxDE"
 		urlRaw = urlRaw.replace('garageId', params['garageId']);
 		fetch(urlRaw) // Call the fetch function passing the url of the API as a parameter
