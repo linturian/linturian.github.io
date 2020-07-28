@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.0.1">
+    <title>Product example · Bootstrap</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/product/">
+
+    <!-- Bootstrap core CSS -->
+<link href="../assets/dist/css/bootstrap.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+	  
+	  .container {
+	  max-width: 960px;
+	}
+
+	/*
+	 * Custom translucent site header
+	 */
+
+	.site-header {
+	  background-color: rgba(0, 0, 0, .85);
+	  -webkit-backdrop-filter: saturate(180%) blur(20px);
+	  backdrop-filter: saturate(180%) blur(20px);
+	}
+	.site-header a {
+	  color: #999;
+	  transition: ease-in-out color .15s;
+	}
+	.site-header a:hover {
+	  color: #fff;
+	  text-decoration: none;
+	}
+
+	/*
+	 * Dummy devices (replace them with your own or something else entirely!)
+	 */
+
+	.product-device {
+	  position: absolute;
+	  right: 10%;
+	  bottom: -30%;
+	  width: 300px;
+	  height: 540px;
+	  background-color: #333;
+	  border-radius: 21px;
+	  -webkit-transform: rotate(30deg);
+	  transform: rotate(30deg);
+	}
+
+	.product-device::before {
+	  position: absolute;
+	  top: 10%;
+	  right: 10px;
+	  bottom: 10%;
+	  left: 10px;
+	  content: "";
+	  background-color: rgba(255, 255, 255, .1);
+	  border-radius: 5px;
+	}
+
+	.product-device-2 {
+	  top: -25%;
+	  right: auto;
+	  bottom: 0;
+	  left: 5%;
+	  background-color: #e5e5e5;
+	}
+
+
+	/*
+	 * Extra utilities
+	 */
+
+	.flex-equal > * {
+	  -ms-flex: 1;
+	  flex: 1;
+	}
+	@media (min-width: 768px) {
+	  .flex-md-equal > * {
+		-ms-flex: 1;
+		flex: 1;
+	  }
+	}
+
+	.overflow-hidden { overflow: hidden; }
+    </style>
+    <!-- Custom styles for this template -->
+
+  </head>
+  <body>
+
+
+<section id="items"></section>
+
+
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+  <div class="col-md-5 p-lg-5 mx-auto my-5">
+    <h1 class="display-4 font-weight-normal">Storefront</h1>
+    <p class="lead font-weight-normal">Storefront là một lựa chọn nhanh để buôn bán đồ rẻ. Kết nối người mua và người bán một cách an toàn, tiện lợi và rõ ràng.<br>
+Đăng tin rao vặt hoàn toàn miễn phí</p>
+    <a class="btn btn-outline-secondary" href="#footer">Tải app để tìm hiểu thêm</a>
+  </div>
+  <div class="product-device shadow-sm d-none d-md-block">
+	<img src='https://lh3.googleusercontent.com/xq5KmRtrgViw5y6UUiN9ZiUHAzIsZ3jPwC9UXLWoI65SJ7hCs32exhVcFcOFoLxeQgs=w3000-h1780-rw' style="position: relative; left: 50%; top: 50%; transform: translate(-50%, -50%);width:300px;height:500px;"/>
+  </div>
+  <div class="product-device product-device-2 shadow-sm d-none d-md-block">
+  	<img src='https://lh3.googleusercontent.com/g0wR1xhbbrw-Anj6Aj_d3JdoPlXprlhl02GI3H3MTJQ1w_SkTUqPCPP5U-cmpG9wQB0=w3000-h1780-rw' style="position: relative; left: 50%; top: 50%; transform: translate(-50%, -50%);width:300px;height:500px;"/>
+  </div>
+</div>
+
+<footer class="container py-5" id = "footer">
+  <div class="row">
+    <div class="col-12 col-md">
+	<img src='https://lh3.googleusercontent.com/RMCV7E6GoL7oOjOxMi0EAih4rAgn0HIFslew9iY8hVx0-YBujNfDiKrsuQ38b663hA=s360-rw' style="position: relative; transform: translate(50%);width:50px;height:50px;"/>
+      <small class="d-block mb-3 text-muted">&copy; 2019-2020</small>
+    </div>
+    <div class="col-6 col-md">
+      <h5>App Download</h5>
+      <ul class="list-unstyled text-small">
+        <li><a class="text-muted" href="https://play.google.com/store/apps/details?id=com.itchybumr.garagesale&hl=vi">Android</a></li>
+        <li><a class="text-muted" href="https://apps.apple.com/app/apple-store/id1523431479">iOS</a></li>
+      </ul>
+    </div>
+    <div class="col-6 col-md">
+      <h5>About</h5>
+      <ul class="list-unstyled text-small">
+        <li><a class="text-muted" href="https://linturian.github.io/">Team</a></li>
+        <li><a class="text-muted" href="https://linturian.github.io/Storefront_PrivacyPolicy.html">Privacy</a></li>
+        <li><a class="text-muted" href="https://linturian.github.io/Storefront_TermAndConditions.html">Terms</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+<script>
+	var getParams = function (url) {
+		console.log(url);
+		var params = {};
+		var parser = document.createElement('a');
+		parser.href = url;
+		var query = parser.search.substring(1);
+		var vars = query.split('&');
+		for (var i = 0; i < vars.length; i++) {
+			var pair = vars[i].split('=');
+			params[pair[0]] = decodeURIComponent(pair[1]);
+		}
+		return params;
+	};
+	var params = (getParams(window.location.href));
+
+	
+	if (params['itemId'] == '') {
+		var urlRaw = "https://firestore.googleapis.com/v1beta1/projects/garagesale-82fb5/databases/(default)/documents/garage/garageId?key=AIzaSyBT4mf-gq-3OLCaitvlU9GshmkEPrEJxDE"
+		urlRaw = urlRaw.replace('garageId', params['garageId']);
+		fetch(urlRaw) // Call the fetch function passing the url of the API as a parameter
+		.then((resp) => resp.json())
+		.then(function(data) {
+			var finalString ='';
+					console.log(data);
+
+			var photoUrls = data.fields.photoUrls.arrayValue.values;
+			var name = data.fields.name.stringValue;
+			var address = data.fields.address.stringValue;
+			
+			if (photoUrls.length % 2 != 0) {
+				photoUrls.push(photoUrls[photoUrls.length-1]);
+			}
+			
+			var i;
+			for (i = 0; i < photoUrls.length/2; i++) {
+				var xmlString = '<div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3"><div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden"><div class="my-3 py-3"><h2 class="display-5">Name</h2><p class="lead">Price</p></div><div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="image1" style="width:100%; height: 300px; border-radius: 21px 21px 0 0;"/></div></div><div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden"><div class="my-3 p-3"><h2 class="display-5">Name</h2><p class="lead">Price</p></div><div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="image2" style="width:100%; height: 300px; border-radius: 21px 21px 0 0;"/></div></div></div><br>';
+				xmlString = xmlString.replace(/Name/g, name);
+				xmlString = xmlString.replace(/Price/g, address);
+				xmlString = xmlString.replace("image1", photoUrls[i * 2].stringValue);
+				xmlString = xmlString.replace("image2", photoUrls[i * 2 + 1].stringValue);	
+				console.log(xmlString);
+				finalString+=xmlString;
+			}
+			var doc = new DOMParser().parseFromString(finalString, "text/html");
+			var body = document.getElementById('items');
+			body.append(doc.documentElement);
+		})
+		.catch(function() {
+			// This is where you run code if the server returns any errors
+		});
+
+	} else {
+		var urlRaw = "https://firestore.googleapis.com/v1beta1/projects/garagesale-82fb5/databases/(default)/documents/garage/garageId/items/itemId?key=AIzaSyBT4mf-gq-3OLCaitvlU9GshmkEPrEJxDE"
+		urlRaw = urlRaw.replace('garageId', params['garageId']);
+		urlRaw = urlRaw.replace('itemId', params['itemId']);
+		fetch(urlRaw) // Call the fetch function passing the url of the API as a parameter
+		.then((resp) => resp.json())
+		.then(function(data) {
+			var finalString ='';
+					console.log(data);
+
+			var photoUrls = data.fields.photoUrls.arrayValue.values;
+			var name = data.fields.name.stringValue;
+			var price = data.fields.price.doubleValue;
+			
+			if (photoUrls.length % 2 != 0) {
+				photoUrls.push(photoUrls[photoUrls.length-1]);
+			}
+			
+			var i;
+			for (i = 0; i < photoUrls.length/2; i++) {
+				var xmlString = '<div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3"><div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden"><div class="my-3 py-3"><h2 class="display-5">Name</h2><p class="lead">VND Price</p></div><div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="image1" style="width:100%; height: 300px; border-radius: 21px 21px 0 0;"/></div></div><div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden"><div class="my-3 p-3"><h2 class="display-5">Name</h2><p class="lead">VND Price</p></div><div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="image2" style="width:100%; height: 300px; border-radius: 21px 21px 0 0;"/></div></div></div><br>';
+				xmlString = xmlString.replace(/Name/g, name);
+				xmlString = xmlString.replace(/Price/g, price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+				xmlString = xmlString.replace("image1", photoUrls[i * 2].stringValue);
+				xmlString = xmlString.replace("image2", photoUrls[i * 2 + 1].stringValue);	
+				console.log(xmlString);
+				finalString+=xmlString;
+			}
+			var doc = new DOMParser().parseFromString(finalString, "text/html");
+			var body = document.getElementById('items');
+			body.append(doc.documentElement);
+		})
+		.catch(function() {
+			// This is where you run code if the server returns any errors
+		});
+	}
+</script>
+<script>
+    $(document).ready(function (){
+        if(navigator.userAgent.toLowerCase().indexOf("android") > -1){
+            window.location.href = 'http://play.google.com/store/apps/details?id=com.truecaller&hl=en';
+        }
+        if(navigator.userAgent.toLowerCase().indexOf("iphone") > -1){
+            window.location.href = 'http://itunes.apple.com/lb/app/truecaller-caller-id-number/id448142450?mt=8';
+        }
+    });
+</script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.js"></script></body>
+</html>
