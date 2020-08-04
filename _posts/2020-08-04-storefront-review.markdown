@@ -4,19 +4,21 @@ title:  "Storefront Review"
 date:   2020-08-04 21:03:36 +0530
 categories: Storefront
 ---
-Snap to List, Chat to Buy.
+## Chụp ảnh để bán, trò chuyện để mua.
 
 ![Image of Storefront](https://firebasestorage.googleapis.com/v0/b/garagesale-82fb5.appspot.com/o/userguide%2FFeatureGraphic_1_64.jpg?alt=media&token=69d8b965-7ee0-4dc4-831f-7fa61ba4f40c)
 
-Storefront connects seller and buyer at a click of a photo. Storefront lets users snap a picture of the item that they want to sell and post it online, sharing the information immediately with potential buyers.
+Cửa hàng kết nối người bán và người mua chỉ với một cú nhấp chuột vào ảnh. Cửa hàng cho phép người dùng chụp ảnh mặt hàng mà họ muốn bán và đăng trực tuyến, chia sẻ thông tin ngay lập tức với người mua tiềm năng.
 
-The idea behind the application came when Thien Nguyen grew frustrated with the cumbersome task of trying to sell his own household’s items when moving house.
+> Ý tưởng đằng sau ứng dụng xuất hiện khi Thiên Nguyễn trở nên thất vọng với nhiệm vụ rườm rà là cố gắng bán các vật dụng gia đình của riêng mình khi chuyển nhà.
 
-> “We had a lot of unique items, and electronic gadgets, that we only used once or twice or even new, but we want to quickly sell it as we need to move house. It was a hassle to have to take a few nice pictures, the upload it to a website, fill in a lengthy page for the product description, and wait for an admin to review the posting, which can take up to 3 ,4 days for one item”
+Chúng tôi có rất nhiều mặt hàng độc đáo và các thiết bị điện tử, chúng tôi chỉ sử dụng một hoặc hai lần hoặc thậm chí mới, nhưng chúng tôi muốn nhanh chóng bán nó khi chúng tôi cần chuyển nhà. Thật rắc rối khi phải chụp một vài bức ảnh đẹp, tải nó lên một trang web, điền vào một trang dài để mô tả sản phẩm và chờ một quản trị viên xem xét bài đăng, có thể mất đến 3, 4 ngày cho một mục"
 
-Hence, he created this app to connect seller and buyer at a simple of a chat. All a seller has to do is take photo of the item, upload it to Storefront, and get it instantaneously posted on the network for potential buyers to view. The entire process would likely take less than 20 seconds, and it was design to be as simple as possible for everyone, as long as you know how to take a picture, you can sell something.
+Do đó, ông đã tạo ra ứng dụng này để kết nối người bán và người mua chỉ trong một cuộc trò chuyện. Tất cả những gì người bán phải làm là chụp ảnh mặt hàng, tải nó lên Storefront và đăng ngay lập tức lên mạng để người mua tiềm năng xem. Toàn bộ quá trình có thể sẽ mất ít hơn 20 giây và nó được thiết kế đơn giản nhất có thể cho mọi người, miễn là bạn biết cách chụp ảnh, bạn có thể bán một cái gì đó.
 
-Storefront does not target professional sellers who intend to use the application as a source of income. But rather, Storefront targets individuals who want to make some cash sell stuffs that otherwise would just be sitting at home collecting dust, and for buyers who would like to save some money because they can buy at prices lower than the retail price on the market.
+Storefront không nhắm mục tiêu người bán chuyên nghiệp, những người có ý định sử dụng ứng dụng như một nguồn thu nhập. Nhưng thay vào đó, Storefront nhắm đến những cá nhân muốn kiếm một số tiền bán những thứ mà nếu khô sẽ ngồi ở nhà để thu thập bụi và cho những người mua muốn tiết kiệm tiền vì họ có thể mua với giá thấp hơn giá bán lẻ trên thị trường.
+
+Chúng tôi đã xem xét các ứng dụng có khái niệm tương tự hiện đang đứng đầu thị trường.
 
 Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
 
