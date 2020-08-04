@@ -20,12 +20,12 @@ Storefront does not target professional sellers who intend to use the applicatio
 
 Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
 
+# 1. Storefront
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
 | ------------------------------- |:------------------------------------:|
 | 1. Tìm cửa hàng, sản phẩm gần mình để xem và mua hàng trực tiếp<br>2. Trò chuyện trực tiếp với người bán để hẹn gặp mặt,<br> thanh toán theo bất kì hình thức nào bạn muốn<br>3. Nhận sản phẩm ngay trong ngày | 1. Dùng cùng một tài khoản để đăng ảnh, giá<br>2. Sản phẩm xuất hiện ngay lập tức|
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Miễn phí      | Miễn phí      |
 
 
 
