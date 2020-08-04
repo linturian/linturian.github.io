@@ -22,9 +22,9 @@ Chúng tôi đã xem xét các ứng dụng có khái niệm tương tự hiện
 
 Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
 
-## 1. Storefront
+## 1. Storefront [iOS][ios], [Android][android]
 
-| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
+| Người mua có thể làm gì?        | Người bán cần phải làm gì?          |
 | ------------------------------- |:------------------------------------|
 | 1. Tìm cửa hàng, sản phẩm gần mình để xem và mua hàng trực tiếp<br>2. Trò chuyện trực tiếp với người bán để hẹn gặp mặt,<br> thanh toán theo bất kì hình thức nào bạn muốn<br>3. Nhận sản phẩm ngay trong ngày | 1. Dùng cùng một tài khoản để đăng ảnh, giá<br>2. Sản phẩm xuất hiện ngay lập tức|
 | Miễn phí      | Miễn phí      |
@@ -32,29 +32,29 @@ Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở t
 
 ## 2. Lazada
 
-| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
-| ------------------------------- |:------------------------------------|
+| Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][lazada] |
+| ------------------------------- |:-----------------------------------------------|
 | 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Đăng ký một tài khoản riêng để bán hàng trên Lazada Seller Center (đợi 5-7 ngày để được phê duyệt)<br>2. Mỗi sản phẩm phải có ít nhất 5 hình, với nền trắng<br>3. Mỗi màu khác nhau phải đăng một bài riêng<br>4. Điền thông tin sản phẩm (tên, giá, hạng mục, hình thức giao hàng, vv)<br>5. Tất cả các bước phải làm trên máy tính|
 | Miễn phí      | Miễn phí      |
 
 ## 3. Shopee
 
-| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
-| ------------------------------- |:------------------------------------|
+| Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][shopee] |
+| ------------------------------- |:-----------------------------------------------|
 | 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Đăng ký tài khoản:<br>-Tên <br>-Giới tính<br>-Ngày sinh<br>-Số điện thoại<br>-Địa chỉ email<br>-Tài khoản facebook<br>-Tài khoản ngân hàng<br>2. Đăng hình sản phẩm<br>3. Điền thông tin sản phẩm<br>-Danh mục<br>-Giá<br>-Hàng có bao nhiêu<br>-Chủng loại nào<br>-Cân nặng<br>-Phí giao hàng<br>-Số ngày giao hàng<br>|
 | Miễn phí      | Miễn phí      |
 
 ## 4. Tiki
 
-| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
-| ------------------------------- |:------------------------------------|
+| Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][tiki] |
+| ------------------------------- |:-----------------------------------------------|
 | 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Điền form (Tên, sdt, email, mật khẩu, tên cửa hàng, mã số kinh doanh, ngành hàng)<br>2. Ký hợp đồng<br>3. Đăng sản phẩm (đăng hình, tên, loại hàng, vv)<br>4. Thiết lập giá<br>5. Đăng sản phẩm|
 | Miễn phí      | Miễn phí      |
 
 ## 5. Chợ tốt
 
-| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
-| ------------------------------- |:------------------------------------|
+| Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][cho-tot] |
+| ------------------------------- |:-----------------------------------------------|
 | 1. Tìm sản phẩm<br>1. Đăng ký tài khoản (chỉ có thể đăng ký bằng sdt)<br>2. Tải hình ảnh sản phẩm, nhập tên, chọn danh mục, chọn tỉnh thành, giá<br>3. Đăng tin sẽ phải đợi 1, 2 ngày để sản phẩm kiểm duyệt bởi admin|
 | Miễn phí      | Miễn phí      |
 
@@ -62,3 +62,11 @@ Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở t
 
 
 [top-7]: https://blog.puziness.com/diem-danh-top-7-app-ban-hang-online-hang-dau-viet-nam/
+[lazada]: https://www.sapo.vn/blog/chi-tiet-cach-dang-ky-tai-khoa%CC%89n-mo%CC%89-gian-hang-tren-lazada/
+[shopee]: https://chanhtuoi.com/cach-ban-hang-tren-shopee-p1250.html
+[tiki]: https://tiki.vn/ban-hang-cung-tiki/cac-buoc-dang-ky
+[cho-tot]: https://trogiup.chotot.com/nguoi-ban/cac-buoc-rao-ban-mot-mon-hang/
+[ios]: https://apps.apple.com/app/apple-store/id1523431479
+[android]: https://play.google.com/store/apps/details?id=com.itchybumr.garagesale&hl=vi
+
+
