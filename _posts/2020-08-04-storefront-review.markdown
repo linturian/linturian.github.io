@@ -4,23 +4,25 @@ title:  "Storefront Review"
 date:   2020-08-04 21:03:36 +0530
 categories: Storefront
 ---
-### Chụp ảnh để bán, trò chuyện để mua.
+### CHỤP ẢNH ĐỂ BÁN, TRÒ CHUYỆN ĐỂ MUA.
 
 ![Image of Storefront](https://firebasestorage.googleapis.com/v0/b/garagesale-82fb5.appspot.com/o/userguide%2FFeatureGraphic_1_64.jpg?alt=media&token=69d8b965-7ee0-4dc4-831f-7fa61ba4f40c)
 
 Cửa hàng kết nối người bán và người mua chỉ với một cú nhấp chuột vào ảnh. Cửa hàng cho phép người dùng chụp ảnh mặt hàng mà họ muốn bán và đăng trực tuyến, chia sẻ thông tin ngay lập tức với người mua tiềm năng.
 
-Ý tưởng đằng sau ứng dụng xuất hiện khi Thiện Nguyễn trở nên thất vọng với nhiệm vụ rườm rà là cố gắng bán các vật dụng gia đình của riêng mình khi chuyển nhà
+Ý tưởng đằng sau việc xây dựng ứng dụng để kết nối dễ dàng người bán và người mua là khi Thiện Nguyễn trở nên thất vọng với việc cố gắng bán các vật dụng gia đình của mình khi phải chuyển nhà mà quá mất thời gian cho những việc không cần thiết như là phải tạo tài khoản, là phải đăng nhập thông tin, tài khoản ngân hàng, là phải đợi xét duyệt của các website,…
 
 > "Chúng tôi có rất nhiều mặt hàng độc đáo và các thiết bị điện tử, chúng tôi chỉ sử dụng một hoặc hai lần hoặc thậm chí mới, nhưng chúng tôi muốn nhanh chóng bán nó khi chúng tôi cần chuyển nhà. Thật rắc rối khi phải chụp một vài bức ảnh đẹp, tải nó lên một trang web, điền vào một trang dài để mô tả sản phẩm và chờ một quản trị viên xem xét bài đăng, có thể mất đến 3, 4 ngày cho một mục"
 
-Do đó, họ đã tạo ra ứng dụng này để kết nối người bán và người mua chỉ trong một cuộc trò chuyện. Tất cả những gì người bán phải làm là chụp ảnh mặt hàng, tải nó lên Storefront và đăng ngay lập tức lên mạng để người mua tiềm năng xem. Toàn bộ quá trình có thể sẽ mất ít hơn 20 giây và nó được thiết kế đơn giản nhất có thể cho mọi người, miễn là bạn biết cách chụp ảnh, bạn có thể bán một cái gì đó.
+Do đó, ông đã tạo ra ứng dụng này để kết nối người bán và người mua chỉ trong một cuộc trò chuyện. Tất cả những gì người bán phải làm là chụp ảnh mặt hàng, tải nó lên Storefront và được đăng ngay lập tức lên ứng dụng để người mua tiềm năng xem. Toàn bộ quá trình có thể sẽ mất ít hơn 20 giây và nó được thiết kế đơn giản nhất có thể cho mọi người, miễn là bạn biết cách chụp ảnh, là bạn có thể bán một cái gì đó.
 
-Storefront không nhắm mục tiêu người bán chuyên nghiệp, những người có ý định sử dụng ứng dụng như một nguồn thu nhập. Nhưng thay vào đó, Storefront nhắm đến những cá nhân muốn kiếm một số tiền bán những thứ mà nếu khô sẽ ngồi ở nhà để thu thập bụi và cho những người mua muốn tiết kiệm tiền vì họ có thể mua với giá thấp hơn giá bán lẻ trên thị trường.
+Storefront không nhắm mục tiêu người bán chuyên nghiệp, những người có ý định sử dụng ứng dụng như một nguồn thu nhập. Nhưng thay vào đó, Storefront nhắm đến những cá nhân muốn kiếm một số tiền bán từ những thứ mà “chỉ làm chật ngôi nhà đang ở của bạn”, “là chỉ để thu thập thêm bụi bặm cho một góc nhà” nhưng lại là những thứ cần cho cho những người mua muốn tiết kiệm tiền vì họ có thể mua với giá thấp hơn giá bán trên thị trường.
 
-Chúng tôi đã xem xét các ứng dụng có khái niệm tương tự hiện đang đứng đầu thị trường.
+Chúng tôi đã xem xét các ứng dụng có khái niệm tương tự hiện đang đứng đầu thị trường. Bạn có thể tham khảo để tìm ra giải pháp tối ưu, ứng dụng phù hợp nhất với nhu cầu của bạn.
 
-Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
+####HÃY TRỞ THÀNH NGƯỜI BÁN HÀNG VÀ MUA HÀNG TIỆN LỢI TRONG 20 GIÂY!
+
+Sau đây là một vài ưu, nhược điểm của các app trên thị trường [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
 
 ## 1. Storefront [iOS][ios], [Android][android]
 
