@@ -10,11 +10,11 @@ categories: Storefront
 
 Cửa hàng kết nối người bán và người mua chỉ với một cú nhấp chuột vào ảnh. Cửa hàng cho phép người dùng chụp ảnh mặt hàng mà họ muốn bán và đăng trực tuyến, chia sẻ thông tin ngay lập tức với người mua tiềm năng.
 
-Ý tưởng đằng sau ứng dụng xuất hiện khi Thiên Nguyễn trở nên thất vọng với nhiệm vụ rườm rà là cố gắng bán các vật dụng gia đình của riêng mình khi chuyển nhà
+Ý tưởng đằng sau ứng dụng xuất hiện khi Thiện Nguyễn trở nên thất vọng với nhiệm vụ rườm rà là cố gắng bán các vật dụng gia đình của riêng mình khi chuyển nhà
 
 > "Chúng tôi có rất nhiều mặt hàng độc đáo và các thiết bị điện tử, chúng tôi chỉ sử dụng một hoặc hai lần hoặc thậm chí mới, nhưng chúng tôi muốn nhanh chóng bán nó khi chúng tôi cần chuyển nhà. Thật rắc rối khi phải chụp một vài bức ảnh đẹp, tải nó lên một trang web, điền vào một trang dài để mô tả sản phẩm và chờ một quản trị viên xem xét bài đăng, có thể mất đến 3, 4 ngày cho một mục"
 
-Do đó, ông đã tạo ra ứng dụng này để kết nối người bán và người mua chỉ trong một cuộc trò chuyện. Tất cả những gì người bán phải làm là chụp ảnh mặt hàng, tải nó lên Storefront và đăng ngay lập tức lên mạng để người mua tiềm năng xem. Toàn bộ quá trình có thể sẽ mất ít hơn 20 giây và nó được thiết kế đơn giản nhất có thể cho mọi người, miễn là bạn biết cách chụp ảnh, bạn có thể bán một cái gì đó.
+Do đó, họ đã tạo ra ứng dụng này để kết nối người bán và người mua chỉ trong một cuộc trò chuyện. Tất cả những gì người bán phải làm là chụp ảnh mặt hàng, tải nó lên Storefront và đăng ngay lập tức lên mạng để người mua tiềm năng xem. Toàn bộ quá trình có thể sẽ mất ít hơn 20 giây và nó được thiết kế đơn giản nhất có thể cho mọi người, miễn là bạn biết cách chụp ảnh, bạn có thể bán một cái gì đó.
 
 Storefront không nhắm mục tiêu người bán chuyên nghiệp, những người có ý định sử dụng ứng dụng như một nguồn thu nhập. Nhưng thay vào đó, Storefront nhắm đến những cá nhân muốn kiếm một số tiền bán những thứ mà nếu khô sẽ ngồi ở nhà để thu thập bụi và cho những người mua muốn tiết kiệm tiền vì họ có thể mua với giá thấp hơn giá bán lẻ trên thị trường.
 
@@ -55,7 +55,7 @@ Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở t
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][cho-tot] |
 | ------------------------------- |:-----------------------------------------------|
-| 1. Tìm sản phẩm<br>1. Đăng ký tài khoản (chỉ có thể đăng ký bằng sdt)<br>2. Tải hình ảnh sản phẩm, nhập tên, chọn danh mục, chọn tỉnh thành, giá<br>3. Đăng tin sẽ phải đợi 1, 2 ngày để sản phẩm kiểm duyệt bởi admin|
+| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Đăng ký tài khoản (chỉ có thể đăng ký bằng sdt)<br>2. Tải hình ảnh sản phẩm, nhập tên, chọn danh mục, chọn tỉnh thành, giá<br>3. Đăng tin sẽ phải đợi 1, 2 ngày để sản phẩm kiểm duyệt bởi admin|
 | Miễn phí      | Miễn phí      |
 
 
