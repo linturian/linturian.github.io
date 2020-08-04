@@ -28,7 +28,7 @@ Sau đây là một vài ưu, nhược điểm của các app trên thị trư�
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì?          |
 | ------------------------------- |:------------------------------------|
-| 1. Tìm cửa hàng, sản phẩm gần mình để xem và mua hàng trực tiếp<br>2. Trò chuyện trực tiếp với người bán để hẹn gặp mặt,<br> thanh toán theo bất kì hình thức nào bạn muốn<br>3. Nhận sản phẩm ngay trong ngày | 1. Dùng cùng một tài khoản để đăng ảnh, giá<br>2. Sản phẩm xuất hiện ngay lập tức|
+| 1. Tìm cửa hàng, sản phẩm gần mình để xem và mua hàng trực tiếp<br><br>2. Trò chuyện trực tiếp với người bán để hẹn gặp mặt,<br>thanh toán theo bất kì hình thức nào bạn muốn<br><br>3. Nhận sản phẩm ngay trong ngày | 1. Dùng cùng một tài khoản để đăng ảnh, giá<br><br>2. Sản phẩm xuất hiện ngay lập tức|
 | Miễn phí      | Miễn phí      |
 
 
@@ -36,28 +36,28 @@ Sau đây là một vài ưu, nhược điểm của các app trên thị trư�
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][lazada] |
 | ------------------------------- |:-----------------------------------------------|
-| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Đăng ký một tài khoản riêng để bán hàng trên Lazada Seller Center (đợi 5-7 ngày để được phê duyệt)<br>2. Mỗi sản phẩm phải có ít nhất 5 hình, với nền trắng<br>3. Mỗi màu khác nhau phải đăng một bài riêng<br>4. Điền thông tin sản phẩm (tên, giá, hạng mục, hình thức giao hàng, vv)<br>5. Tất cả các bước phải làm trên máy tính|
+| 1. Tìm sản phẩm<br><br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br><br>| 1. Đăng ký một tài khoản riêng để bán hàng trên Lazada Seller Center (đợi 5-7 ngày để được phê duyệt)<br><br>2. Mỗi sản phẩm phải có ít nhất 5 hình, với nền trắng<br><br>3. Mỗi màu khác nhau phải đăng một bài riêng<br><br>4. Điền thông tin sản phẩm (tên, giá, hạng mục, hình thức giao hàng, vv)<br><br>5. Tất cả các bước phải làm trên máy tính|
 | Miễn phí      | Miễn phí      |
 
 ## 3. Shopee
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][shopee] |
 | ------------------------------- |:-----------------------------------------------|
-| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Đăng ký tài khoản:<br>-Tên <br>-Giới tính<br>-Ngày sinh<br>-Số điện thoại<br>-Địa chỉ email<br>-Tài khoản facebook<br>-Tài khoản ngân hàng<br>2. Đăng hình sản phẩm<br>3. Điền thông tin sản phẩm<br>-Danh mục<br>-Giá<br>-Hàng có bao nhiêu<br>-Chủng loại nào<br>-Cân nặng<br>-Phí giao hàng<br>-Số ngày giao hàng<br>|
+| 1. Tìm sản phẩm<br><br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br><br>| 1. Đăng ký tài khoản:<br><br>-Tên <br><br>-Giới tính<br><br>-Ngày sinh<br><br>-Số điện thoại<br><br>-Địa chỉ email<br><br>-Tài khoản facebook<br><br>-Tài khoản ngân hàng<br><br>2. Đăng hình sản phẩm<br><br>3. Điền thông tin sản phẩm<br><br>-Danh mục<br><br>-Giá<br><br>-Hàng có bao nhiêu<br><br>-Chủng loại nào<br><br>-Cân nặng<br><br>-Phí giao hàng<br><br>-Số ngày giao hàng<br><br>|
 | Miễn phí      | Miễn phí      |
 
 ## 4. Tiki
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][tiki] |
 | ------------------------------- |:-----------------------------------------------|
-| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Điền form (Tên, sdt, email, mật khẩu, tên cửa hàng, mã số kinh doanh, ngành hàng)<br>2. Ký hợp đồng<br>3. Đăng sản phẩm (đăng hình, tên, loại hàng, vv)<br>4. Thiết lập giá<br>5. Đăng sản phẩm|
+| 1. Tìm sản phẩm<br><br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br><br>| 1. Điền form (Tên, sdt, email, mật khẩu, tên cửa hàng, mã số kinh doanh, ngành hàng)<br><br>2. Ký hợp đồng<br><br>3. Đăng sản phẩm (đăng hình, tên, loại hàng, vv)<br><br>4. Thiết lập giá<br><br>5. Đăng sản phẩm|
 | Miễn phí      | Miễn phí      |
 
 ## 5. Chợ tốt
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì? [Tham khảo][cho-tot] |
 | ------------------------------- |:-----------------------------------------------|
-| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Đăng ký tài khoản (chỉ có thể đăng ký bằng sdt)<br>2. Tải hình ảnh sản phẩm, nhập tên, chọn danh mục, chọn tỉnh thành, giá<br>3. Đăng tin sẽ phải đợi 1, 2 ngày để sản phẩm kiểm duyệt bởi admin|
+| 1. Tìm sản phẩm<br><br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br><br>| 1. Đăng ký tài khoản (chỉ có thể đăng ký bằng sdt)<br><br>2. Tải hình ảnh sản phẩm, nhập tên, chọn danh mục, chọn tỉnh thành, giá<br><br>3. Đăng tin sẽ phải đợi 1, 2 ngày để sản phẩm kiểm duyệt bởi admin|
 | Miễn phí      | Miễn phí      |
 
 
