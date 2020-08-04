@@ -34,7 +34,28 @@ Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở t
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
 | ------------------------------- |:------------------------------------|
-| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày | <br>1. Đăng ký một tài khoản riêng để bán hàng trên Lazada Seller Center (đợi 5-7 ngày để được phê duyệt)<br>2. Mỗi sản phẩm phải có ít nhất 5 hình, với nền trắng<br>3. Mỗi màu khác nhau phải đăng một bài riêng<br>4. Điền thông tin sản phẩm (tên, giá, hạng mục, hình thức giao hàng, vv)<br>5. Tất cả các bước phải làm trên máy tính|
+| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Đăng ký một tài khoản riêng để bán hàng trên Lazada Seller Center (đợi 5-7 ngày để được phê duyệt)<br>2. Mỗi sản phẩm phải có ít nhất 5 hình, với nền trắng<br>3. Mỗi màu khác nhau phải đăng một bài riêng<br>4. Điền thông tin sản phẩm (tên, giá, hạng mục, hình thức giao hàng, vv)<br>5. Tất cả các bước phải làm trên máy tính|
+| Miễn phí      | Miễn phí      |
+
+## 3. Shopee
+
+| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
+| ------------------------------- |:------------------------------------|
+| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| 1. Đăng ký tài khoản:<br>-Tên <br>-Giới tính<br>-Ngày sinh<br>-Số điện thoại<br>-Địa chỉ email<br>-Tài khoản facebook<br>-Tài khoản ngân hàng<br>2. Đăng hình sản phẩm<br>3. Điền thông tin sản phẩm<br>-Danh mục<br>-Giá<br>-Hàng có bao nhiêu<br>-Chủng loại nào<br>-Cân nặng<br>-Phí giao hàng<br>-Số ngày giao hàng<br>|
+| Miễn phí      | Miễn phí      |
+
+## 4. Tiki
+
+| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
+| ------------------------------- |:------------------------------------|
+| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| <br>1. Đăng ký một tài khoản riêng để bán hàng trên Lazada Seller Center (đợi 5-7 ngày để được phê duyệt)<br>2. Mỗi sản phẩm phải có ít nhất 5 hình, với nền trắng<br>3. Mỗi màu khác nhau phải đăng một bài riêng<br>4. Điền thông tin sản phẩm (tên, giá, hạng mục, hình thức giao hàng, vv)<br>5. Tất cả các bước phải làm trên máy tính|
+| Miễn phí      | Miễn phí      |
+
+## 5. Chợ tốt
+
+| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
+| ------------------------------- |:------------------------------------|
+| 1. Tìm sản phẩm<br>2. Đặt mua sản phẩm và đợi sản phẩm được giao trong vòng 7-14 ngày <br>| <br>1. Đăng ký một tài khoản riêng để bán hàng trên Lazada Seller Center (đợi 5-7 ngày để được phê duyệt)<br>2. Mỗi sản phẩm phải có ít nhất 5 hình, với nền trắng<br>3. Mỗi màu khác nhau phải đăng một bài riêng<br>4. Điền thông tin sản phẩm (tên, giá, hạng mục, hình thức giao hàng, vv)<br>5. Tất cả các bước phải làm trên máy tính|
 | Miễn phí      | Miễn phí      |
 
 
