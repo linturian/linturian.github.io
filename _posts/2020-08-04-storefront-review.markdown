@@ -20,7 +20,7 @@ Storefront không nhắm mục tiêu người bán chuyên nghiệp, những ng�
 
 Chúng tôi đã xem xét các ứng dụng có khái niệm tương tự hiện đang đứng đầu thị trường. Bạn có thể tham khảo để tìm ra giải pháp tối ưu, ứng dụng phù hợp nhất với nhu cầu của bạn.
 
-####HÃY TRỞ THÀNH NGƯỜI BÁN HÀNG VÀ MUA HÀNG TIỆN LỢI TRONG 20 GIÂY!
+#### HÃY TRỞ THÀNH NGƯỜI BÁN HÀNG VÀ MUA HÀNG TIỆN LỢI TRONG 20 GIÂY!
 
 Sau đây là một vài ưu, nhược điểm của các app trên thị trường [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
 
