@@ -12,14 +12,21 @@ Storefront connects seller and buyer at a click of a photo. Storefront lets user
 
 The idea behind the application came when Thien Nguyen grew frustrated with the cumbersome task of trying to sell his own household’s items when moving house.
 
-“We had a lot of unique items, and electronic gadgets, that we only used once or twice or even new, but we want to quickly sell it as we need to move house. It was a hassle to have to take a few nice pictures, the upload it to a website, fill in a lengthy page for the product description, and wait for an admin to review the posting, which can take up to 3 ,4 days for one item”
+> “We had a lot of unique items, and electronic gadgets, that we only used once or twice or even new, but we want to quickly sell it as we need to move house. It was a hassle to have to take a few nice pictures, the upload it to a website, fill in a lengthy page for the product description, and wait for an admin to review the posting, which can take up to 3 ,4 days for one item”
 
 Hence, he created this app to connect seller and buyer at a simple of a chat. All a seller has to do is take photo of the item, upload it to Storefront, and get it instantaneously posted on the network for potential buyers to view. The entire process would likely take less than 20 seconds, and it was design to be as simple as possible for everyone, as long as you know how to take a picture, you can sell something.
 
 Storefront does not target professional sellers who intend to use the application as a source of income. But rather, Storefront targets individuals who want to make some cash sell stuffs that otherwise would just be sitting at home collecting dust, and for buyers who would like to save some money because they can buy at prices lower than the retail price on the market.
 
-We looked at applications with similar concepts that are currently at the top of the market.
-
 Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
+
+
+| Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
+| ------------------------------- |:------------------------------------:|
+| 1. Tìm cửa hàng, sản phẩm gần mình để xem và mua hàng trực tiếp<br>2. Trò chuyện trực tiếp với người bán để hẹn gặp mặt, thanh toán theo bất kì hình thức nào bạn muốn<br>3. Nhận sản phẩm ngay trong ngày | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
+
 
 [top-7]: https://blog.puziness.com/diem-danh-top-7-app-ban-hang-online-hang-dau-viet-nam/
