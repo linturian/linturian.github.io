@@ -4,15 +4,15 @@ title:  "Storefront Review"
 date:   2020-08-04 21:03:36 +0530
 categories: Storefront
 ---
-## Chụp ảnh để bán, trò chuyện để mua.
+### Chụp ảnh để bán, trò chuyện để mua.
 
 ![Image of Storefront](https://firebasestorage.googleapis.com/v0/b/garagesale-82fb5.appspot.com/o/userguide%2FFeatureGraphic_1_64.jpg?alt=media&token=69d8b965-7ee0-4dc4-831f-7fa61ba4f40c)
 
 Cửa hàng kết nối người bán và người mua chỉ với một cú nhấp chuột vào ảnh. Cửa hàng cho phép người dùng chụp ảnh mặt hàng mà họ muốn bán và đăng trực tuyến, chia sẻ thông tin ngay lập tức với người mua tiềm năng.
 
-> Ý tưởng đằng sau ứng dụng xuất hiện khi Thiên Nguyễn trở nên thất vọng với nhiệm vụ rườm rà là cố gắng bán các vật dụng gia đình của riêng mình khi chuyển nhà.
+Ý tưởng đằng sau ứng dụng xuất hiện khi Thiên Nguyễn trở nên thất vọng với nhiệm vụ rườm rà là cố gắng bán các vật dụng gia đình của riêng mình khi chuyển nhà
 
-Chúng tôi có rất nhiều mặt hàng độc đáo và các thiết bị điện tử, chúng tôi chỉ sử dụng một hoặc hai lần hoặc thậm chí mới, nhưng chúng tôi muốn nhanh chóng bán nó khi chúng tôi cần chuyển nhà. Thật rắc rối khi phải chụp một vài bức ảnh đẹp, tải nó lên một trang web, điền vào một trang dài để mô tả sản phẩm và chờ một quản trị viên xem xét bài đăng, có thể mất đến 3, 4 ngày cho một mục"
+> "Chúng tôi có rất nhiều mặt hàng độc đáo và các thiết bị điện tử, chúng tôi chỉ sử dụng một hoặc hai lần hoặc thậm chí mới, nhưng chúng tôi muốn nhanh chóng bán nó khi chúng tôi cần chuyển nhà. Thật rắc rối khi phải chụp một vài bức ảnh đẹp, tải nó lên một trang web, điền vào một trang dài để mô tả sản phẩm và chờ một quản trị viên xem xét bài đăng, có thể mất đến 3, 4 ngày cho một mục"
 
 Do đó, ông đã tạo ra ứng dụng này để kết nối người bán và người mua chỉ trong một cuộc trò chuyện. Tất cả những gì người bán phải làm là chụp ảnh mặt hàng, tải nó lên Storefront và đăng ngay lập tức lên mạng để người mua tiềm năng xem. Toàn bộ quá trình có thể sẽ mất ít hơn 20 giây và nó được thiết kế đơn giản nhất có thể cho mọi người, miễn là bạn biết cách chụp ảnh, bạn có thể bán một cái gì đó.
 
@@ -22,7 +22,7 @@ Chúng tôi đã xem xét các ứng dụng có khái niệm tương tự hiện
 
 Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
 
-# 1. Storefront
+## 1. Storefront
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
 | ------------------------------- |:------------------------------------|
@@ -30,7 +30,7 @@ Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở t
 | Miễn phí      | Miễn phí      |
 
 
-# 1. Lazada
+## 2. Lazada
 
 | Người mua có thể làm gì?        | Người bán cần phải làm gì?           |
 | ------------------------------- |:------------------------------------|
