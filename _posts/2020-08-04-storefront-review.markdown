@@ -20,6 +20,6 @@ Storefront does not target professional sellers who intend to use the applicatio
 
 We looked at applications with similar concepts that are currently at the top of the market.
 
-Check out our [Esty shop][esty-shop] for the collection.
+Một vài trang web khác để bán hàng [Top 7 ứng dụng bán hàng ở thị trường Việt Nam][top-7].
 
-[esty-shop]: https://www.etsy.com/sg-en/listing/839292887/essential-collection-set-of-6-gift-for?ref=shop_home_active_1
+[top-7]: https://blog.puziness.com/diem-danh-top-7-app-ban-hang-online-hang-dau-viet-nam/
