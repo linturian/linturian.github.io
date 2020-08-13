@@ -505,7 +505,7 @@
 					console.log(data);
 
 			var photoUrls = data.fields.photoUrls.arrayValue.values;
-			document.getElementsByTagName('meta')[5].content = photoUrls[0];
+			document.getElementsByTagName('meta')[5].content = photoUrls[0].stringValue;
 			var name = data.fields.name.stringValue;
 			var address = data.fields.address.stringValue;
 			
