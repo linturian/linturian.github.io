@@ -479,9 +479,6 @@
         </div>
     </div>
 </footer>
-<!--<script>-->
-<!--    document.head.querySelector('meta[name="description"]').content = _desc-->
-<!--</script>-->
 <script>
 	var getParams = function (url) {
 		console.log(url);
@@ -508,6 +505,7 @@
 					console.log(data);
 
 			var photoUrls = data.fields.photoUrls.arrayValue.values;
+			document.getElementsByTagName('meta')[5].content = photoUrls[0];
 			var name = data.fields.name.stringValue;
 			var address = data.fields.address.stringValue;
 			
