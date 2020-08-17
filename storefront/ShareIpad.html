@@ -1,0 +1,598 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Thien Nguyen">
+    <meta name="generator" content="Jekyll v4.0.1">
+    <title>Storefront · Mua bán trên điện thoại · Tiện lợi · Miễn phí </title>
+<!--    <meta data-rh="true"-->
+<!--          content="https://lh3.googleusercontent.com/RMCV7E6GoL7oOjOxMi0EAih4rAgn0HIFslew9iY8hVx0-YBujNfDiKrsuQ38b663hA=s360-rw"-->
+<!--          property="og:url">-->
+    <meta property="og:image"
+          content="https://cdn.chotot.com/PtUzhcbmENjaztjvUkvUutY5wXzMEsACEy4EPuJmu5g/preset:view/plain/5a4c9d9e08fbaaa88c8f1746f67e9b98-2679252648269704853.jpg">
+<!--          id="ember70" class="ember-view">-->
+<!--    <meta property="og:image:alt" content="Storefront on the App&nbsp;Store" id="ember72"-->
+<!--          class="ember-view">-->
+<!--    <meta property="og:image:secure_url"-->
+<!--          content="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/63/a6/e3/63a6e37f-9dc3-8675-5d33-6c25c3309dbd/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png"-->
+<!--          id="ember74" class="ember-view">-->
+<!--    <meta property="og:image:type" content="image/png" id="ember76" class="ember-view">-->
+<!--    <meta property="og:image:width" content="1200" id="ember78" class="ember-view">-->
+<!--    <meta property="og:image:height" content="630" id="ember80" class="ember-view">-->
+<!--    <meta name="keywords"-->
+<!--          content="Storefront, Thien Nguyen, Shopping, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes, android, playstore"-->
+<!--          id="ember60" class="ember-view">-->
+    <meta property="og:description"
+          content="Storefront là một lựa chọn nhanh để buôn bán đồ rẻ. Kết nối người mua và người bán một cách an toàn, tiện lợi và rõ ràng.Đăng tin rao vặt hoàn toàn miễn phí">
+<!--          id="ember64" class="ember-view">-->
+<!--    <meta name="apple-itunes-app" content="app-id=1523431479">-->
+<!--    <meta name="google-play-app" content="app-id=com.itchybumr.garagesale">-->
+
+    <!-- Bootstrap core CSS -->
+    <link href="./bootstrap.css" rel="stylesheet">
+    <link rel="apple-touch-icon" href="logov5.jpg">
+    <link rel="android-touch-icon" href="logov5.jpg">
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+	  
+	  .container {
+	  max-width: 960px;
+	}
+
+	/*
+	 * Custom translucent site header
+	 */
+
+	.site-header {
+	  background-color: rgba(0, 0, 0, .85);
+	  -webkit-backdrop-filter: saturate(180%) blur(20px);
+	  backdrop-filter: saturate(180%) blur(20px);
+	}
+	.site-header a {
+	  color: #999;
+	  transition: ease-in-out color .15s;
+	}
+	.site-header a:hover {
+	  color: #fff;
+	  text-decoration: none;
+	}
+
+	/*
+	 * Dummy devices (replace them with your own or something else entirely!)
+	 */
+
+	.product-device {
+	  position: absolute;
+	  right: 10%;
+	  bottom: -30%;
+	  width: 300px;
+	  height: 540px;
+	  background-color: #333;
+	  border-radius: 21px;
+	  -webkit-transform: rotate(30deg);
+	  transform: rotate(30deg);
+	}
+
+	.product-device::before {
+	  position: absolute;
+	  top: 10%;
+	  right: 10px;
+	  bottom: 10%;
+	  left: 10px;
+	  content: "";
+	  background-color: rgba(255, 255, 255, .1);
+	  border-radius: 5px;
+	}
+
+	.product-device-2 {
+	  top: -25%;
+	  right: auto;
+	  bottom: 0;
+	  left: 5%;
+	  background-color: #e5e5e5;
+	}
+
+
+	/*
+	 * Extra utilities
+	 */
+
+	.flex-equal > * {
+	  -ms-flex: 1;
+	  flex: 1;
+	}
+	@media (min-width: 768px) {
+	  .flex-md-equal > * {
+		-ms-flex: 1;
+		flex: 1;
+	  }
+	}
+
+	.overflow-hidden { overflow: hidden; }
+
+	.smartbanner-show {
+	margin-top: 80px;
+}
+
+.smartbanner-show .smartbanner {
+	display: block;
+}
+
+/** Default **/
+.smartbanner {
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: none;
+	width: 100%;
+	height: 80px;
+	line-height: 80px;
+	font-family: 'Helvetica Neue', sans-serif;
+	background: #f4f4f4;
+	z-index: 9998;
+	-webkit-font-smoothing: antialiased;
+	overflow: hidden;
+	-webkit-text-size-adjust: none;
+}
+
+.smartbanner-container {
+	margin: 0 auto;
+	white-space: nowrap;
+}
+
+.smartbanner-close {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 5px 0 5px;
+	font-family: 'ArialRoundedMTBold', Arial;
+	font-size: 20px;
+	text-align: center;
+	color: #888;
+	text-decoration: none;
+	border: 0;
+	border-radius: 14px;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+.smartbanner-close:active,
+.smartbanner-close:hover {
+	color: #aaa;
+}
+
+.smartbanner-icon {
+	display: inline-block;
+	vertical-align: middle;
+	width: 57px;
+	height: 57px;
+	margin-right: 12px;
+	background-size: cover;
+	border-radius: 10px;
+}
+
+.smartbanner-info {
+	display: inline-block;
+	vertical-align: middle;
+	width: 44%;
+	font-size: 11px;
+	line-height: 1.2em;
+	font-weight: bold;
+}
+
+.smartbanner-title {
+	font-size: 13px;
+	line-height: 18px;
+}
+
+.smartbanner-button {
+	position: absolute;
+	right: 20px;
+	top: 0;
+	bottom: 0;
+	margin: auto 0;
+	height: 24px;
+	font-size: 14px;
+	line-height: 24px;
+	text-align: center;
+	font-weight: bold;
+	color: #6a6a6a;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+.smartbanner-button:active,
+.smartbanner-button:hover {
+	color: #aaa;
+}
+
+.smartbanner-button-text {
+}
+
+.smartbanner-button-text:active,
+.smartbanner-button-text:hover {
+}
+
+/** iOS **/
+.smartbanner-ios {
+	background: #f4f4f4;
+	background: linear-gradient(to bottom, #f4f4f4, #cdcdcd);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+	line-height: 80px;
+}
+
+.smartbanner-ios .smartbanner-close {
+	border: 0;
+	width: 18px;
+	height: 18px;
+	line-height: 18px;
+	color: #888;
+	text-shadow: 0 1px 0 white;
+}
+
+.smartbanner-ios .smartbanner-close:active,
+.smartbanner-ios .smartbanner-close:hover {
+	color: #aaa;
+}
+
+.smartbanner-ios .smartbanner-icon {
+	background: rgba(0, 0, 0, 0.6);
+	background-size: cover;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.smartbanner-ios .smartbanner-info {
+	color: #6a6a6a;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+.smartbanner-ios .smartbanner-title {
+	color: #4d4d4d;
+	font-weight: bold;
+}
+
+.smartbanner-ios .smartbanner-button {
+	padding: 0 10px;
+	min-width: 10%;
+	color: #6a6a6a;
+	background: #efefef;
+	background: linear-gradient(to bottom, #efefef, #dcdcdc);
+	border-radius: 3px;
+	box-shadow: inset 0 0 0 1px #bfbfbf, 0 1px 0 rgba(255, 255, 255, 0.6), 0 2px 0 rgba(255, 255, 255, 0.7) inset;
+}
+
+.smartbanner-ios .smartbanner-button:active,
+.smartbanner-ios .smartbanner-button:hover {
+	background: #dcdcdc;
+	background: linear-gradient(to bottom, #dcdcdc, #efefef);
+}
+
+.smartbanner-ios .smartbanner-button-text {
+}
+
+.smartbanner-ios .smartbanner-button-text:active,
+.smartbanner-ios .smartbanner-button-text:hover {
+}
+
+/** Android **/
+.smartbanner-android {
+	background: #3d3d3d url(data:image/gif;base64,R0lGODlhCAAIAIABAFVVVf///yH5BAEHAAEALAAAAAAIAAgAAAINRG4XudroGJBRsYcxKAA7);
+	box-shadow: inset 0 4px 0 #88b131;
+	line-height: 82px;
+}
+
+.smartbanner-android .smartbanner-close {
+	border: 0;
+	width: 17px;
+	height: 17px;
+	line-height: 17px;
+	margin-right: 7px;
+	color: #b1b1b3;
+	background: #1c1e21;
+	text-shadow: 0 1px 1px #000;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.8) inset, 0 1px 1px rgba(255, 255, 255, 0.3);
+}
+
+.smartbanner-android .smartbanner-close:active,
+.smartbanner-android .smartbanner-close:hover {
+	color: #eee;
+}
+
+.smartbanner-android .smartbanner-icon {
+	background-color: transparent;
+	box-shadow: none;
+}
+
+.smartbanner-android .smartbanner-info {
+	color: #ccc;
+	text-shadow: 0 1px 2px #000;
+}
+
+.smartbanner-android .smartbanner-title {
+	color: #fff;
+	font-weight: bold;
+}
+
+.smartbanner-android .smartbanner-button {
+	min-width: 12%;
+	color: #d1d1d1;
+	padding: 0;
+	background: none;
+	border-radius: 0;
+	box-shadow: 0 0 0 1px #333, 0 0 0 2px #dddcdc;
+}
+
+.smartbanner-android .smartbanner-button:active,
+.smartbanner-android .smartbanner-button:hover {
+	background: none;
+}
+
+.smartbanner-android .smartbanner-button-text {
+	text-align: center;
+	display: block;
+	padding: 0 10px;
+	background: #42b6c9;
+	background: linear-gradient(to bottom, #42b6c9, #39a9bb);
+	text-transform: none;
+	text-shadow: none;
+	box-shadow: none;
+}
+
+.smartbanner-android .smartbanner-button-text:active,
+.smartbanner-android .smartbanner-button-text:hover {
+	background: #2ac7e1;
+}
+
+/** Windows **/
+.smartbanner-windows {
+	background: #f4f4f4;
+	background: linear-gradient(to bottom, #f4f4f4, #cdcdcd);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+	line-height: 80px;
+}
+
+.smartbanner-windows .smartbanner-close {
+	border: 0;
+	width: 18px;
+	height: 18px;
+	line-height: 18px;
+	color: #888;
+	text-shadow: 0 1px 0 white;
+}
+
+.smartbanner-windows .smartbanner-close:active,
+.smartbanner-windows .smartbanner-close:hover {
+	color: #aaa;
+}
+
+.smartbanner-windows .smartbanner-icon {
+	background: rgba(0, 0, 0, 0.6);
+	background-size: cover;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.smartbanner-windows .smartbanner-info {
+	color: #6a6a6a;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+.smartbanner-windows .smartbanner-title {
+	color: #4d4d4d;
+	font-weight: bold;
+}
+
+.smartbanner-windows .smartbanner-button {
+	padding: 0 10px;
+	min-width: 10%;
+	color: #6a6a6a;
+	background: #efefef;
+	background: linear-gradient(to bottom, #efefef, #dcdcdc);
+	border-radius: 3px;
+	box-shadow: inset 0 0 0 1px #bfbfbf, 0 1px 0 rgba(255, 255, 255, 0.6), 0 2px 0 rgba(255, 255, 255, 0.7) inset;
+}
+
+.smartbanner-windows .smartbanner-button:active,
+.smartbanner-windows .smartbanner-button:hover {
+	background: #dcdcdc;
+	background: linear-gradient(to bottom, #dcdcdc, #efefef);
+}
+
+.smartbanner-windows .smartbanner-button-text {
+}
+
+.smartbanner-windows .smartbanner-button-text:active,
+.smartbanner-windows .smartbanner-button-text:hover {
+}
+
+
+
+    </style>
+    <!-- Custom styles for this template -->
+
+</head>
+<body>
+
+
+<section id="items"></section>
+
+
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+    <div class="col-md-5 p-lg-5 mx-auto my-5">
+        <h1 class="display-4 font-weight-normal">Storefront</h1>
+        <p class="lead font-weight-normal">Storefront là một lựa chọn nhanh để buôn bán đồ rẻ. Kết
+            nối người mua và người bán một cách an toàn, tiện lợi và rõ ràng.<br>
+            Đăng tin rao vặt hoàn toàn miễn phí</p>
+        <a class="btn btn-outline-secondary" href="#footer">Tải app để tìm hiểu thêm</a>
+    </div>
+    <div class="product-device shadow-sm d-none d-md-block">
+        <img src='https://lh3.googleusercontent.com/xq5KmRtrgViw5y6UUiN9ZiUHAzIsZ3jPwC9UXLWoI65SJ7hCs32exhVcFcOFoLxeQgs=w3000-h1780-rw'
+             style="position: relative; left: 50%; top: 50%; transform: translate(-50%, -50%);width:300px;height:500px;"/>
+    </div>
+    <div class="product-device product-device-2 shadow-sm d-none d-md-block">
+        <img src='https://lh3.googleusercontent.com/g0wR1xhbbrw-Anj6Aj_d3JdoPlXprlhl02GI3H3MTJQ1w_SkTUqPCPP5U-cmpG9wQB0=w3000-h1780-rw'
+             style="position: relative; left: 50%; top: 50%; transform: translate(-50%, -50%);width:300px;height:500px;"/>
+    </div>
+</div>
+
+<footer class="container py-5" id="footer">
+    <div class="row">
+        <div class="col-12 col-md">
+            <img src='https://lh3.googleusercontent.com/RMCV7E6GoL7oOjOxMi0EAih4rAgn0HIFslew9iY8hVx0-YBujNfDiKrsuQ38b663hA=s360-rw'
+                 style="position: relative; transform: translate(50%);width:50px;height:50px;"/>
+            <small class="d-block mb-3 text-muted">&copy; 2019-2020</small>
+        </div>
+        <div class="col-6 col-md">
+            <h5>App Download</h5>
+            <ul class="list-unstyled text-small">
+                <li><a class="text-muted"
+                       href="https://play.google.com/store/apps/details?id=com.itchybumr.garagesale&hl=vi">Android</a>
+                </li>
+                <li><a class="text-muted"
+                       href="https://apps.apple.com/app/apple-store/id1523431479">iOS</a></li>
+            </ul>
+        </div>
+        <div class="col-6 col-md">
+            <h5>About</h5>
+            <ul class="list-unstyled text-small">
+                <li><a class="text-muted" href="https://linturian.github.io/">Team</a></li>
+                <li><a class="text-muted"
+                       href="https://linturian.github.io/Storefront_PrivacyPolicy.html">Privacy</a>
+                </li>
+                <li><a class="text-muted"
+                       href="https://linturian.github.io/Storefront_TermAndConditions.html">Terms</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</footer>
+<script>
+	var getParams = function (url) {
+		console.log(url);
+		var params = {};
+		var parser = document.createElement('a');
+		parser.href = url;
+		var query = parser.search.substring(1);
+		var vars = query.split('&');
+		for (var i = 0; i < vars.length; i++) {
+			var pair = vars[i].split('=');
+			params[pair[0]] = decodeURIComponent(pair[1]);
+		}
+		return params;
+	};
+	var params = (getParams(window.location.href));
+
+	if (params['itemId'] == 'none') {
+		var urlRaw = "https://firestore.googleapis.com/v1beta1/projects/garagesale-82fb5/databases/(default)/documents/garage/garageId?key=AIzaSyBT4mf-gq-3OLCaitvlU9GshmkEPrEJxDE"
+		urlRaw = urlRaw.replace('garageId', params['garageId']);
+		fetch(urlRaw) // Call the fetch function passing the url of the API as a parameter
+		.then((resp) => resp.json())
+		.then(function(data) {
+			var finalString ='';
+					console.log(data);
+
+			var photoUrls = data.fields.photoUrls.arrayValue.values;
+			document.getElementsByTagName('meta')[5].content = photoUrls[0].stringValue;
+			var name = data.fields.name.stringValue;
+			var address = data.fields.address.stringValue;
+			
+			if (photoUrls.length % 2 != 0) {
+				photoUrls.push(photoUrls[photoUrls.length-1]);
+			}
+			
+			var i;
+			for (i = 0; i < photoUrls.length/2; i++) {
+				var xmlString = '<div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3"><div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden"><div class="my-3 py-3"><h2 class="display-5">Name</h2><p class="lead">Price</p></div><div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="image1" style="width:100%; height: 300px; border-radius: 21px 21px 0 0;"/></div></div><div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden"><div class="my-3 p-3"><h2 class="display-5">Name</h2><p class="lead">Price</p></div><div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="image2" style="width:100%; height: 300px; border-radius: 21px 21px 0 0;"/></div></div></div><br>';
+				xmlString = xmlString.replace(/Name/g, name);
+				xmlString = xmlString.replace(/Price/g, address);
+				xmlString = xmlString.replace("image1", photoUrls[i * 2].stringValue);
+				xmlString = xmlString.replace("image2", photoUrls[i * 2 + 1].stringValue);	
+				finalString+=xmlString;
+			}
+			var doc = new DOMParser().parseFromString(finalString, "text/html");
+			var body = document.getElementById('items');
+			body.append(doc.documentElement);
+		})
+		.catch(function() {
+			// This is where you run code if the server returns any errors
+		});
+
+	} else {
+		var urlRaw = "https://firestore.googleapis.com/v1beta1/projects/garagesale-82fb5/databases/(default)/documents/garage/garageId/items/itemId?key=AIzaSyBT4mf-gq-3OLCaitvlU9GshmkEPrEJxDE"
+		urlRaw = urlRaw.replace('garageId', params['garageId']);
+		urlRaw = urlRaw.replace('itemId', params['itemId']);
+		fetch(urlRaw) // Call the fetch function passing the url of the API as a parameter
+		.then((resp) => resp.json())
+		.then(function(data) {
+			var finalString ='';
+
+
+			var photoUrls = data.fields.photoUrls.arrayValue.values;
+			var name = data.fields.name.stringValue;
+			var price = data.fields.price.doubleValue;
+			
+			if (photoUrls.length % 2 != 0) {
+				photoUrls.push(photoUrls[photoUrls.length-1]);
+			}
+			
+			var i;
+			for (i = 0; i < photoUrls.length/2; i++) {
+				var xmlString = '<div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3"><div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden"><div class="my-3 py-3"><h2 class="display-5">Name</h2><p class="lead">VND Price</p></div><div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="image1" style="width:100%; height: 300px; border-radius: 21px 21px 0 0;"/></div></div><div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden"><div class="my-3 p-3"><h2 class="display-5">Name</h2><p class="lead">VND Price</p></div><div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="image2" style="width:100%; height: 300px; border-radius: 21px 21px 0 0;"/></div></div></div><br>';
+				xmlString = xmlString.replace(/Name/g, name);
+				xmlString = xmlString.replace(/Price/g, price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+				xmlString = xmlString.replace("image1", photoUrls[i * 2].stringValue);
+				xmlString = xmlString.replace("image2", photoUrls[i * 2 + 1].stringValue);	
+				finalString+=xmlString;
+			}
+			var doc = new DOMParser().parseFromString(finalString, "text/html");
+			var body = document.getElementById('items');
+			body.append(doc.documentElement);
+		})
+		.catch(function() {
+			// This is where you run code if the server returns any errors
+		});
+	}
+
+
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="./smart-app-banner.js"></script>
+<script type="text/javascript">
+    new SmartBanner({
+  daysHidden: 15,   // days to hide banner after close button is clicked (defaults to 15)
+  daysReminder: 90, // days to hide banner after "VIEW" button is clicked (defaults to 90)
+  appStoreLanguage: 'us', // language code for the App Store (defaults to us)
+  title: 'Storefront',
+  author: 'Mua bán thật dễ dàng',
+  button: 'View',
+  store: {
+    ios: 'Trên App Store',
+    android: 'Trên Google Play',
+  },
+  price: {
+    ios: 'Miễn phí',
+    android: 'Miễn phí'
+  }
+<!--  , force: 'ios'-->
+});
+</script>
+<script>
+    window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')
+
+</script>
+<script src="./bootstrap.bundle.js"></script>
+</body>
+</html>
